@@ -57,6 +57,7 @@ install(
         ${CMAKE_CURRENT_LIST_DIR}/rns.h
         ${CMAKE_CURRENT_LIST_DIR}/scalingvariant.h
         ${CMAKE_CURRENT_LIST_DIR}/ntt.h
+        ${CMAKE_CURRENT_LIST_DIR}/seal_patch.h
         ${CMAKE_CURRENT_LIST_DIR}/streambuf.h
         ${CMAKE_CURRENT_LIST_DIR}/uintarith.h
         ${CMAKE_CURRENT_LIST_DIR}/uintarithmod.h
